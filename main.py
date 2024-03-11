@@ -2,7 +2,7 @@ import pytesseract
 import cv2
 import pandas as pd
 import sqlite3
-#import dateparser
+
 
 
 # Set path for pytesseract (will need to change for different computers potentially if not set to PATH)
